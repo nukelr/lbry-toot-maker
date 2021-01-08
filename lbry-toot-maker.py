@@ -4,7 +4,7 @@ import yaml
 from pathlib import Path
 from mastodon import Mastodon
 import time
-
+#Still not working
 yaml_file = open("config.yaml", 'r')
 yaml_content = yaml.load(yaml_file)
 api_url = yaml_content["api_url"]
