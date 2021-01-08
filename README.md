@@ -3,7 +3,7 @@
 >by: Nuke
 ## Tools for boosting your LBRY activity with Mastodon
 
-## 0) LBRY-Toot-aker (lbry-toot-maker.py)
+## LBRY-Toot-Maker (lbry-toot-maker.py)
 ---
 - **Toot your last LBRY post**  
 Requirements:
