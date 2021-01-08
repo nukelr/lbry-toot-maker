@@ -6,5 +6,6 @@
 ## LBRY-Toot-Maker (lbry-toot-maker.py)
 ---
 - **Toot your last LBRY post**  
-Requirements:
+Requires Mastodon Api Wrapper: https://github.com/halcy/Mastodon.py
+or you can install with pip:
 pip3 install Mastodon.py
