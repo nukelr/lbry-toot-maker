@@ -1,0 +1,4 @@
+api_url : # your instance api
+username : # username
+password : # password
+channelID : !!str "@example:c" #your channel id
