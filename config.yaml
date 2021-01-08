@@ -1,4 +1,4 @@
 api_url : # your instance api
-username : # username
-password : # password
+username : # your username on mastodon
+password : # your password on mastodon
 channelID : !!str "@example:c" #your channel id
