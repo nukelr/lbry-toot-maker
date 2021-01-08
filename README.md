@@ -8,7 +8,8 @@
 - **Toot your last LBRY post**  
 Requires Mastodon Api Wrapper: https://github.com/halcy/Mastodon.py
 or you can install with pip:
-pip3 install Mastodon.py
+
+```pip3 install Mastodon.py```
 
 ## Auto-Toot (for Linux) 
 
