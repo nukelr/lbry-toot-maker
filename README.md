@@ -9,3 +9,19 @@
 Requires Mastodon Api Wrapper: https://github.com/halcy/Mastodon.py
 or you can install with pip:
 pip3 install Mastodon.py
+
+## Auto-Toot (for Linux) 
+
+Open and edit [crontab](https://linuxcommandlibrary.com/man/crontab):
+
+``` crontab -e ```
+
+Add the following lines to either: 
+
+**Check and Auto-Toot your last post on every system start**
+
+``` @reboot python3 [part to python script] ```
+
+**Check and Auto-Toot your last post every hour**
+
+``` @hourly python3 [part to python script] ```
